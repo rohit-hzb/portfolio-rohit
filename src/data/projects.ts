@@ -7,7 +7,7 @@ const projects: IProjectItem[] = [
     title: "Course shalling app",
     description:
       "An Course shalling app Website built with Next.js, featuring fast performance, dynamic routing, and a seamless shopping experience.",
-    icon: "/skills/reactjs.png",
+    icon: "/skills/react.svg",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
     githubUrl: "https://github.com/mkv-manish/ecommerce-exclusive",
@@ -22,8 +22,8 @@ const projects: IProjectItem[] = [
     icon: "/skills/nextjs.png",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    githubUrl: "https://github.com/mkv-manish/portfolio",
-    url: "https://devmanish.info",
+    githubUrl: "https://portfolioinfo-sandy.vercel.app/",
+    url: "https://devrohit.info",
     tags: ["Next.js", "Sass", "Web Development"],
   },
   {
