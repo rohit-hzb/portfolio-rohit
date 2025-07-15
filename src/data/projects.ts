@@ -10,8 +10,8 @@ const projects: IProjectItem[] = [
     icon: "/skills/react.svg",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    // githubUrl: "https://github.com/mkv-manish/ecommerce-exclusive",
-    // url: "https://github.com/mkv-manish/ecommerce-exclusive/blob/main/README.md",
+    githubUrl: "#",
+    url: "#",
     tags: ["React.js", "tailwindcss", "javascript"],
   },
   {
@@ -34,8 +34,8 @@ const projects: IProjectItem[] = [
     icon: "/skills/nextjs.png",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    // githubUrl: "https://github.com/mkv-manish/btc-employee",
-    // url: "https://github.com/mkv-manish/btc-employee/tree/main",
+    githubUrl: "#",
+    url: "#",
     tags: ["react.js", "mongodb", "node.js", "express.js"],
   },
   {
@@ -46,8 +46,8 @@ const projects: IProjectItem[] = [
     icon: "/skills/react.svg",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    // githubUrl: "https://github.com/mkv-manish/Todo-List",
-    // url: "https://github.com/mkv-manish/Todo-List/blob/main/README.md",
+    githubUrl: "#",
+    url: "#",
     tags: ["react.js", "javascript", "html", "css"],
   },
  
