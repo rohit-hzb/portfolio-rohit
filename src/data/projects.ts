@@ -3,15 +3,15 @@ import { IProjectItem, ProjectType, RepoType } from "@/types";
 const projects: IProjectItem[] = [
   
   {
-    id: "Course shalling app ",
-    title: "Course shalling app",
+    id: "Doctor-appointment-application ",
+    title: "Doctor-appointment-application",
     description:
-      "An Course shalling app Website built with Next.js, featuring fast performance, dynamic routing, and a seamless shopping experience.",
+      "The Doctor Appointment Application is a user-friendly web and mobile-based platform designed to simplify the process of booking medical consultations. The system enables patients to schedule, reschedule, or cancel appointments with doctors conveniently without long waiting times or physical visits",
     icon: "/skills/react.svg",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    githubUrl: "#",
-    url: "#",
+    githubUrl: "https://github.com/rohit-hzb/Doctor-Appointment-Application",
+    url: "https://github.com/rohit-hzb/Doctor-Appointment-Application",
     tags: ["React.js", "tailwindcss", "javascript"],
   },
   {
@@ -26,29 +26,29 @@ const projects: IProjectItem[] = [
     url: "https://portfolioinfo-sandy.vercel.app/",
     tags: ["Next.js", "Sass", "Web Development"],
   },
-  {
-    id: "MERN Auth Panel",
-    title: "Secure API-Driven Panel",
-    description:
-      "A MERN stack application with user authentication, API integration, and dynamic table creation.",
-    icon: "/skills/nextjs.png",
-    repoType: RepoType.Public,
-    projectType: ProjectType.Personal,
-    githubUrl: "#",
-    url: "#",
-    tags: ["react.js", "mongodb", "node.js", "express.js"],
-  },
+  // {
+  //   id: "MERN Auth Panel",
+  //   title: "Secure API-Driven Panel",
+  //   description:
+  //     "A MERN stack application with user authentication, API integration, and dynamic table creation.",
+  //   icon: "/skills/nextjs.png",
+  //   repoType: RepoType.Public,
+  //   projectType: ProjectType.Personal,
+  //   githubUrl: "#",
+  //   url: "#",
+  //   tags: ["react.js", "mongodb", "node.js", "express.js"],
+  // },
   {
     id: "Todo-List",
     title: "Todo-List App",
     description:
       "A ToDo-List is a simple app for managing tasks, allowing users to add, edit, delete, and mark tasks as completed. It helps organize and track tasks efficiently.",
-    icon: "/skills/react.svg",
+    icon: "/skills/javascript.svg",
     repoType: RepoType.Public,
     projectType: ProjectType.Personal,
-    githubUrl: "#",
-    url: "#",
-    tags: ["react.js", "javascript", "html", "css"],
+    githubUrl: "https://github.com/rohit-hzb/To-Do-App",
+    url: "https://to-do-app-five-woad.vercel.app/",
+    tags: [ "javascript", "html", "css"],
   },
  
 ];

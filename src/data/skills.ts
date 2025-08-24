@@ -12,7 +12,7 @@ const skills: ISkillListItem[] = [
       {
         title: "TypeScript",
         level: SkillLevel.Intermediate,
-        icon: "/skills/typescript.svg",
+        icon: "/skills/python.png",
       },
     ],
   },
@@ -22,7 +22,7 @@ const skills: ISkillListItem[] = [
       {
         title: "Next.js",
         level: SkillLevel.Expert,
-        icon: "/skills/nextjs.png",
+        // icon: "/skills/nextjs.png",
       },
       {
         title: "React.js",
