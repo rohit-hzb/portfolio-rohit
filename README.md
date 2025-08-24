@@ -1,6 +1,6 @@
 # My Portfolio
 
-# Manish Kumar
+# Rohit Kumar
 
 Welcome to the repository for **My Portfolio**! This is a personal portfolio website built with **Next.js**, **React**, and **Tailwind CSS**. It showcases my work and projects, and provides information about my skills and experience.
 
